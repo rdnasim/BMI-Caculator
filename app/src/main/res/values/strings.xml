@@ -5,12 +5,4 @@
     <string name="title_activity_two">ActivityTwo</string>
     <string name="height_value">Enter Height in M</string>
     <string name="weight_value">Enter Weight in KG</string>
-    <string name="article_value">Instructions
-BMI is calculated by dividing your weight in kilograms by your height in metres squared.
-        Enter your measurements below and click ‘Calculate’ for your body mass index, and some
-        actions you can take to reach and maintain a healthy weight.
-
-If your BMI is above or below the normal range but you consider yourself to be of normal and
-        healthy weight for your height, you can check with your doctor to find out if there is anything
-        else you need to do to reduce your health risks.</string>
 </resources>
